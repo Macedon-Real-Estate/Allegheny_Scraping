@@ -3,8 +3,8 @@ import numpy as np
 import boto3
 import s3fs
 import io
-access_id = 'AKIAVKU464LTWLHQYF43'
-access_key = 'Yq2LTaP6f4p7rZSFzgJ3MiUJh9gPBZnXKAXffo+K'
+access_id =accesskey
+access_key = acceskey
 
 
 
